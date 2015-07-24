@@ -1,0 +1,12 @@
+@comment $OpenBSD$
+@bin bin/newsbaoter
+@man man/man1/newsbaoter.1
+share/examples/newsbaoter/
+share/examples/newsbaoter/config.sample
+share/newsbaoter/
+share/newsbaoter/xsl/
+share/newsbaoter/xsl/Atom_03_xsl.xml
+share/newsbaoter/xsl/Atom_10_xsl.xml
+share/newsbaoter/xsl/Feed_XSD.xml
+share/newsbaoter/xsl/RDF_xsl.xml
+share/newsbaoter/xsl/RSS_20_xsl.xml
